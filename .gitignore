@@ -160,5 +160,9 @@ cython_debug/
 #.idea/
 model/llama-2-7b-chat.ggmlv3.q4_0.bin
 llamaenv
+<<<<<<< HEAD
 data
+=======
+Generative_AI_Project.egg-info/data
+>>>>>>> a2e9cb6e384cc1c232709a72e6cf9a798747fc4b
 Generative_AI_Project.egg-info
